@@ -56,8 +56,8 @@
       "requiredVersion": null
     },
     "@bookstore-app/shared-lib": {
-      "declared": "^0.0.1",
-      "installed": "0.0.1",
+      "declared": "~0.1.0",
+      "installed": "0.1.0",
       "requiredVersion": null
     },
     "rxjs": {
